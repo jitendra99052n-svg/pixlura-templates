@@ -1,6 +1,6 @@
 [
-  {"name": "Birthday", "image": "https://picsum.photos/id/10/300/400"},
-  {"name": "Travel", "image": "https://picsum.photos/id/20/300/400"},
-  {"name": "Nature", "image": "https://picsum.photos/id/30/300/400"},
-  {"name": "City", "image": "https://picsum.photos/id/40/300/400"}
+  {"name": "Birthday", "image": "https://raw.githubusercontent.com/jitendra99052n-svg/pixlura-templates/main/birthday.jpg"},
+  {"name": "Travel", "image": "https://raw.githubusercontent.com/jitendra99052n-svg/pixlura-templates/main/travel.jpg"},
+  {"name": "Nature", "image": "https://raw.githubusercontent.com/jitendra99052n-svg/pixlura-templates/main/nature.jpg"},
+  {"name": "City", "image": "https://raw.githubusercontent.com/jitendra99052n-svg/pixlura-templates/main/city.jpg"}
 ]
